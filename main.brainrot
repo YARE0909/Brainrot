@@ -1,0 +1,5 @@
+yo imma whip up a greet(name) {
+  yap("Hello, " + name);
+}
+
+yo greet("Brainrot Dev");
